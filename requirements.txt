@@ -1,0 +1,6 @@
+uvicorn
+FastAPI
+numpy
+pickle
+pandas
+BaseModel
